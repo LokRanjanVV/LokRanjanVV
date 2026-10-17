@@ -57,8 +57,7 @@ Customers & Orders
 
 **Tools:** Python · Pandas · MySQL · Power BI · DAX
 
-🔗 **Repository:** Coming soon
-
+🔗 **Repository:** [YourCart E-commerce Sales Analytics](https://github.com/LokRanjanVV/YourCart-Ecommerce-Sales-Analytics)
 ------------------------------------------------------------------------
 
 ### 📊 HR Analytics Dashboard
