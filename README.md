@@ -71,7 +71,7 @@ calculated columns. - Built a three-page Power BI dashboard.
 
 **Tools:** Power BI · Power Query · DAX
 
-🔗 **Repository:** Coming soon
+🔗 **Repository:** [HR Analytics Dashboard](https://github.com/LokRanjanVV/HR-Analysis)
 
 ------------------------------------------------------------------------
 
